@@ -6,3 +6,5 @@ Esto lo he añadido para mostrar como se hace un commit desde Github
 Ahora he añadido otra linea para demostrar como funciona fech
 
 Ahora he añadido otra linea para demostrar como funciona pull
+
+Edito esto para probar que no puedo hacer puhs sin hacer pull
